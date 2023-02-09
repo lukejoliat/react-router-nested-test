@@ -5,7 +5,7 @@ export const Home = () => {
   return (
     <>
       <h1>Welcome to the profiles app.</h1>
-      <button onClick={() => navigate("/profiles")}>Profiles</button>
+      <button onClick={() => navigate("profiles")}>Profiles</button>
     </>
   );
 };
