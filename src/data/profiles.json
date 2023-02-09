@@ -1,0 +1,12 @@
+[
+  {
+    "name": "first profile",
+    "info": "This is the first profile",
+    "status": { "online": true }
+  },
+  {
+    "name": "second profile",
+    "info": "This is the second profile",
+    "status": { "online": false }
+  }
+]
